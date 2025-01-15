@@ -1,25 +1,30 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.c9542272.css",
-    "main.js": "/portfolio/static/js/main.ff909e63.js",
+    "main.css": "/portfolio/static/css/main.cfff557d.css",
+    "main.js": "/portfolio/static/js/main.e8f7f884.js",
     "static/media/AboutPhoto1.JPG": "/portfolio/static/media/AboutPhoto1.9141aeb25ac0d27b355c.JPG",
     "static/media/AboutPhoto2.jpg": "/portfolio/static/media/AboutPhoto2.be699f5ae5c7692b48e6.jpg",
-    "static/media/WindMate2.svg": "/portfolio/static/media/WindMate2.1ee356c37ce5d6d7a191ead1174abb0b.svg",
-    "static/media/WindMate1.svg": "/portfolio/static/media/WindMate1.0aa1e23d69d45f29bf31bce54e46af45.svg",
-    "static/media/WindMate3.svg": "/portfolio/static/media/WindMate3.7ef872cb247320027a37797313070baf.svg",
-    "static/media/SpeedworkPreview3.svg": "/portfolio/static/media/SpeedworkPreview3.202ad568d4fd07c29608c0eff5838e09.svg",
-    "static/media/SpeedworkPreview1.svg": "/portfolio/static/media/SpeedworkPreview1.9a995e66eac64f8cf0aac1f62fa22ff5.svg",
-    "static/media/SpeedworkPreview2.svg": "/portfolio/static/media/SpeedworkPreview2.14b3189a68db92dfa0a4d0b9c913eae3.svg",
-    "static/media/windmate.png": "/portfolio/static/media/windmate.59dd421f1702773eb359.png",
+    "static/media/amici_preview2.png": "/portfolio/static/media/amici_preview2.e387a0062511fcafbddc.png",
+    "static/media/speedwork4.png": "/portfolio/static/media/speedwork4.4ee42d73330f9855015b.png",
+    "static/media/windmate_preview3.png": "/portfolio/static/media/windmate_preview3.df815b138b87d30bd0ca.png",
+    "static/media/windmate_preview1.png": "/portfolio/static/media/windmate_preview1.0f9fbc89ffac586b6d05.png",
+    "static/media/amici_preview1.png": "/portfolio/static/media/amici_preview1.12f87afb0532403396d1.png",
+    "static/media/windmate.png": "/portfolio/static/media/windmate.ed1d74905ad7ea8f0d3b.png",
+    "static/media/amici_preview4.png": "/portfolio/static/media/amici_preview4.5f79d8f236bc9c2bd979.png",
     "static/media/about_bike.jpg": "/portfolio/static/media/about_bike.114cf27090fab8998e7e.jpg",
+    "static/media/speedwork2.svg": "/portfolio/static/media/speedwork2.eb47971d9125d6ff2ee0157b22474696.svg",
+    "static/media/windmate_preview2.png": "/portfolio/static/media/windmate_preview2.b49dda6ad1aca3555b21.png",
+    "static/media/speedwork1.png": "/portfolio/static/media/speedwork1.c2b3e56334a07be94a88.png",
+    "static/media/speedwork3.png": "/portfolio/static/media/speedwork3.80e08228ad158b602f41.png",
+    "static/media/amici_preview3.png": "/portfolio/static/media/amici_preview3.e4d79d5cae4b6450829b.png",
     "static/media/max_profile.jpg": "/portfolio/static/media/max_profile.08f30c87e0daae61fdf5.jpg",
     "static/media/protologo.svg": "/portfolio/static/media/protologo.7a33a581c1ddc5b8de288562a3a881e7.svg",
     "index.html": "/portfolio/index.html",
-    "main.c9542272.css.map": "/portfolio/static/css/main.c9542272.css.map",
-    "main.ff909e63.js.map": "/portfolio/static/js/main.ff909e63.js.map"
+    "main.cfff557d.css.map": "/portfolio/static/css/main.cfff557d.css.map",
+    "main.e8f7f884.js.map": "/portfolio/static/js/main.e8f7f884.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9542272.css",
-    "static/js/main.ff909e63.js"
+    "static/css/main.cfff557d.css",
+    "static/js/main.e8f7f884.js"
   ]
 }
